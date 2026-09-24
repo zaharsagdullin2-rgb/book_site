@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zaharsagdullin2-rgb.github.io/book_site/sitemap.xml
